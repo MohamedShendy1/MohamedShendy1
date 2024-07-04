@@ -67,8 +67,8 @@ I'm an iOS Developer with a passion for creating beautiful and functional mobile
 ## 📫 Contact
 
 **phone**: +201202396718
-- **Email**: [mailto:dev.mohamed.shendy@gmail.cm]
-- **LinkedIn**: [(https://www.linkedin.com/in/mohamed-shendy-30563a173)]
+- **Email**: [dev.mohamed.shendy@gmail.cm]
+- **LinkedIn**: [https://www.linkedin.com/in/mohamed-shendy-30563a173]
 
 ## 📄 License
 
