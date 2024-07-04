@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **MohamedShendy1/MohamedShendy1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -68,8 +67,8 @@ I'm an iOS Developer with a passion for creating beautiful and functional mobile
 ## 📫 Contact
 
 **phone**: +201202396718
-- **Email**: [your_email@example.com](mailto:dev.mohamed.shendy@gmail.cm)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/mohamed-shendy-30563a173)
+- **Email**: [mailto:dev.mohamed.shendy@gmail.cm]
+- **LinkedIn**: [(https://www.linkedin.com/in/mohamed-shendy-30563a173)]
 
 ## 📄 License
 
