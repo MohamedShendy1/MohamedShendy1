@@ -57,4 +57,6 @@
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohamedShendy1&show_icons=true&theme=radical&cache_seconds=1800)
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=MohamedShendy1&show_icons=true&theme=radical&hide_border=true" alt="MohamedShendy1's GitHub Stats" />
+</p>
