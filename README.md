@@ -83,4 +83,4 @@ I build scalable, high-performance applications for FinTech, Logistics, and E-co
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=mohamedshendy&show_icons=true&theme=default)
+![Stats]([https://github-readme-stats.vercel.app/api?username=mohamedshendy&show_icons=true&theme=default](https://github-readme-stats-sigma-five.vercel.app/api?username=mohamedshendy&show_icons=true))
