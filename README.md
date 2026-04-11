@@ -1,85 +1,74 @@
 # Hi there, I'm Mohamed Shendy 👋
 
-**Senior iOS Developer** with 5+ years of experience specializing in **Swift**, **SwiftUI**, and **Modular Architecture**.  
-I build scalable, high-performance applications for FinTech, Logistics, and E-commerce using **Clean Architecture** and **SOLID principles**.
+**Senior iOS Developer** with 5+ years of experience specializing in **Swift**, **SwiftUI**, and **Modular Architecture**. Expert in building scalable ecosystems for FinTech, Logistics, and E-commerce using **Clean Architecture** and **SOLID** principles.
 
 ---
 
-## 💼 Professional Experience
+### 💼 Professional Experience
 
-### Senior iOS Developer | EZeats (Cairo, Egypt)  
-*Oct 2024 – Present*  
-- Architected a high-traffic platform for **45,000+ users**, improving load times by **20%**  
-- Built a modular multi-vendor system using **SwiftUI** and **SwiftData**  
-- Integrated payment gateways (**Paymob, Kashier**) and real-time tracking APIs  
-- Ensured offline resilience with local caching and full data consistency  
+#### **Senior iOS Developer | EZeats** (Cairo, Egypt) 
+*Oct 2024 – Present*
+- Architected a high-traffic ecosystem for **45,000+ users**, achieving a **20% improvement** in load times.
+- Developed a modular multi-vendor solution using **SwiftUI** and **SwiftData**.
+- Integrated dual payment gateways (**Paymob, Kashier**) and **RoBoost API** for tracking.
+- Enforced offline resilience with **SwiftData local caching**, maintaining 100% data consistency.
 
-### AI Swift Code Evaluator | Confidential Insurer (Remote, USA)  
-*Jul 2024 – Jan 2025*  
-- Improved AI-generated Swift code accuracy by **25%**  
-- Defined quality benchmarks aligned with Apple best practices  
-- Created reusable templates for async networking and error handling  
+#### **AI Swift Code Evaluator | Confidential Insurer** (Remote, USA)
+*Jul 2024 – Jan 2025*
+- Improved AI code generation accuracy by **25%** through rigorous evaluation of production patterns.
+- Established quality benchmarks ensuring 100% adherence to Apple's best practices.
 
-### Senior iOS Developer | TREND (Cairo, Egypt)  
-*Jan 2023 – Sep 2024*  
-- Led migration to **SwiftUI & Combine**, boosting UI performance by **15%**  
-- Built scalable apps (**Hashtag KSA, UAd**) using **MVVM-C**  
-- Increased user engagement via real-time features and feed optimization  
+#### **Senior iOS Developer | TREND** (Cairo, Egypt)
+*Jan 2023 – Sep 2024*
+- Led the transition from legacy UIKit/RxSwift to **SwiftUI and Combine**, increasing UI speed by **15%**.
+- Designed **Hashtag KSA** and **UAd** using **MVVM-C**, improving maintainability by 35%.
 
-### iOS Developer (Part-Time) | Promental (Remote, Egypt)  
-*Oct 2022 – Dec 2023*  
-- Integrated **Zoom SDK** and built real-time chat using **Firebase & MessageKit**  
-- Reduced loading times by **25%** through optimized networking  
+#### **iOS Developer (Part-Time) | Promental** (Remote, Egypt)
+*Oct 2022 – Dec 2023*
+- Integrated **Zoom SDK** and engineered a real-time chat module using **MessageKit**.
+- Implemented reactive streams with **Combine** and utilized **SwiftGen** for type-safety.
 
-### iOS Developer | FullFrameGroup (FFG) (Cairo, Egypt)  
-*May 2021 – Dec 2022*  
-- Delivered 4 production apps across healthcare and e-commerce  
-- Migrated legacy codebases to **MVVM-C** and improved test coverage  
-- Reduced memory leaks by **40%** using performance profiling tools  
+#### **iOS Developer | Full FrameGroup (FFG)** (Cairo, Egypt)
+*May 2021 – Dec 2022*
+- Shipped 4 production apps: **AlFauzan, Wagba, Labany, and BeautyClinic**.
+- Transitioned legacy MVC codebases to **MVVM-C**, expanding unit test coverage.
 
-### iOS Developer | CodeCaique (Remote, Egypt)  
-*Mar 2020 – May 2021*  
-- Reduced checkout time by **30%** via payment gateway optimization  
-- Built real-time logistics tracking with **Google Maps API**  
-- Improved networking layer using **Alamofire & Codable**  
+#### **iOS Developer | CodeCaique** (Remote, Egypt)
+*Mar 2020 – May 2021*
+- Reduced checkout time by **30%** via **Hyperpay, Mada, and PayPal** integration.
+- Developed real-time **Google Maps** logistics tracking and medication traceability.
 
-### iOS Developer (Intern) | Tabib Soft (Egypt)  
-*Oct 2019 – Mar 2020*  
-- Implemented Dark Mode and structured networking layers using **Alamofire**  
+#### **iOS Developer (Intern) | Tabib Soft** (Egypt)
+*Oct 2019 – Mar 2020*
+- Architected native **Dark Mode** support and flows for **NazekApp** and **RadaryApp**.
 
 ---
 
-## 🚀 Key Projects
+### 🚀 Portfolio & Apps
 
-- **EZeats** – Multi-vendor food-tech platform (45K+ users) with QR ordering, payments, and real-time tracking (**SwiftUI, MVVM-C**)  
-- **Hashtag KSA** – Real-time news aggregator with social API integration and interactive feeds (**UIKit, Firebase**)  
-- **UAd** – B2B/B2C marketing platform with OAuth integration and monetization system  
-- **Fawterny** – E-commerce marketplace with search and inventory tracking (**VIPER, Firebase**)  
-- **Drovox** – Ride-hailing system with GPS tracking, payments, and fleet management  
-- **Mat7anty** – Fast-commerce delivery platform with KNET integration and geolocation  
-- **The Content** – B2B marketplace with project tracking and collaboration workflows  
-- **Labany** – Livestock delivery platform with geofencing and wallet integration  
-
----
-
-## 🛠️ Tech Stack
-
-**Languages & Frameworks:** Swift, SwiftUI, UIKit, Combine, RxSwift  
-**Architecture:** MVVM-C, VIPER, Clean Architecture  
-**Networking:** REST APIs, Alamofire, Moya  
-**Data:** Core Data, SwiftData, Realm  
-**Tools:** Firebase, Fastlane, GitHub Actions, Xcode Cloud  
+| App | Description & Tech Stack |
+| :--- | :--- |
+| **EZeats** | Multi-vendor food-tech with QR ordering, dual payments, and RoBoost tracking. |
+| **Hashtag KSA** | Real-time news aggregator with Twitter/YouTube/Google API synchronization. |
+| **UAd** | Dual B2B/B2C marketing platform for campaign and influencer monetization. |
+| **Drovox & Hero** | Premium ride-hailing ecosystem with GPS tracking and instant bank transfers. |
+| **Mat7anty** | Fast-commerce for Kuwaiti mills with **KNET** and delivery optimization. |
+| **The Content** | B2B creative services marketplace with asset management and project tracking. |
+| **Fawterny** | Multi-vendor marketplace with VIPER architecture and inventory tracking. |
+| **Labany** | Specialized livestock delivery with geofencing and digital wallet integration. |
+| **Promental** | Healthcare app with remote consultations via Zoom SDK and real-time chat. |
 
 ---
 
-## 📫 Connect with Me
+### 📫 Connect with Me
 
-- 📱 Phone: +20 120 239 6718  
-- 📧 Email: dev.mohamed.shendy@gmail.com  
-- 🔗 LinkedIn: https://linkedin.com/in/mohamedshendy  
-- 💻 GitHub: https://github.com/mohamedshendy  
+- 📱 **Phone**: [+20 120 239 6718](tel:+201202396718)
+- 📧 **Email**: [dev.mohamed.shendy@gmail.com](mailto:dev.mohamed.shendy@gmail.com)
+- 🔗 **LinkedIn**: [mohamedshendy](https://linkedin.com/in/mohamedshendy)
+- 💻 **GitHub**: [MohamedShendy1](https://github.com/MohamedShendy1)
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohamedShendy1&show_icons=true&theme=radical)
