@@ -75,6 +75,4 @@ Expert in building scalable ecosystems for FinTech, Logistics, and E-commerce us
 
 ---
 
-### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=MohamedShendy1&show_icons=true&count_private=true)
